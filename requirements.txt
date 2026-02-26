@@ -1,0 +1,7 @@
+# python -m pip install -r requirements.txt
+ollama
+requests
+langchain
+langchain-chroma
+langchain-community
+langchain_ollama
